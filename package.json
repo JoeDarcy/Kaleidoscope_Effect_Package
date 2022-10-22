@@ -1,0 +1,22 @@
+{
+  "name": "com.darcystudios.kaleidoscope-effect",
+  "version": "1.0.1",
+  "displayName": "Kaleidoscope Effect",
+  "description": "This package contains a kaleidoscope effect.",
+  "unity": "2021.3",
+  "unityRelease": "6f1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Darcy Studios",
+    "email": "joe.darcy@mail.com",
+    "url": "https://www.unity3d.com"
+  },
+  "type": "tool"
+}
